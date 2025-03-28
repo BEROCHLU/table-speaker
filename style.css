@@ -1,0 +1,118 @@
+body {
+    font-size: 12px;
+    color: #333;
+    background: #fff
+}
+
+table {
+    font-size: 12px;
+    word-break: break-all;
+    text-align: left;
+    border-collapse: separate
+}
+
+a:hover,
+a:active {
+    color: #e20;
+    text-decoration: underline
+}
+
+a img,
+abbr {
+    border: 0;
+    vertical-align: top
+}
+
+.right {
+    text-align: right
+}
+
+#page h1,
+#page h2,
+#page h3,
+#page p,
+#page ol,
+#page ul,
+#page li,
+#page dl,
+#page dt,
+#page dd {
+    margin: 0;
+    padding: 0
+}
+
+#page ol,
+#page ul {
+    list-style: none
+}
+
+#page img {
+    vertical-align: top
+}
+
+#page {
+    width: 820px;
+    margin: 0 auto;
+    background: #fff
+}
+
+#page ul#t-navi {
+    margin: 40px
+}
+
+#page ul#t-navi li {
+    margin: 0 0 5px
+}
+
+#page #content .sect {
+    margin: 0 20px 50px
+}
+
+#page #content .sect>p {
+    margin: 0 0 10px
+}
+
+#page #content .sect table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    /* width: 100%; */
+    margin: 0 0 5px;
+    background: #fff
+}
+
+#page #content .sect table th,
+#page #content .sect table td {
+    vertical-align: top
+}
+
+#page #content .sect table th {
+    padding: 6px;
+    background: #70d1f3;
+    text-align: center
+}
+
+#page #content .sect table th+th {
+    border-left: 1px #fff solid
+}
+
+#page #content .sect table td+td {
+    border-left: 1px #ddd solid
+}
+
+.sect table tr:nth-child(2n+1) {
+    color: #f3f3f3;
+    background-color: #f3f3f3;
+}
+
+.sect table tr:nth-child(2n) {
+    color: #fff;
+}
+
+tr>td:nth-child(1) {
+    color: #000;
+}
+
+.highlighted {
+    color: #000;
+    background-color: yellow;
+}
