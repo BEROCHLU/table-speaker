@@ -19,11 +19,6 @@ This application serves as a dictation tool for English learners, helping them t
 
 ## Getting Started
 
-### Prerequisites
-
-- A modern web browser with JavaScript enabled.
-- Internet connection to load external scripts (e.g., jQuery).
-
 ### Usage
 
 - **Play Audio**: Click the 🔊 button next to any English text to hear it spoken aloud. This can be used for dictation practice by listening and writing down what you hear.
@@ -46,10 +41,6 @@ This application serves as a dictation tool for English learners, helping them t
 - **Dynamic Table Generation**: Integrate a feature to dynamically generate the table from an Excel or CSV file.
 - **Enhanced Speech Options**: Allow users to adjust speech rate and language settings.
 - **Improved Accessibility**: Add ARIA roles and attributes for better screen reader support.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 ## License
 
