@@ -99,6 +99,10 @@ abbr {
     border-left: 1px #ddd solid
 }
 
+.jp {
+    color: black;
+}
+
 .sect table tr:nth-child(2n+1) {
     color: #f3f3f3;
     background-color: #f3f3f3;
